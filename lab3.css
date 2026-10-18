@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+body {
+    background-color: rgb(95, 146, 103);
+    font-family: Great Vibes, cursive;
+}
+        h1, h2, h3, h4, h5, h6 {
+            color: rgb(40, 50, 40);
+}
+p {
+            font-size: 30px;
+            line-height: 1.5;
+}
+    strong {
+        font-weight: bold;
+}
+em {
+        font-style: italic;
+}
+ol, ul {
+        padding-left: 20px;
+}
+hr {
+        border: none;
+        border-top: 1px solid black;
+}
+img {
+        max-width: 100%;
+        height: auto;
+}
+.copyright {
+        font-style: italic;
+        font-size: small;
+}
